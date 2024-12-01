@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Subham Negi</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhnegi&label=Profile%20views&color=0e75b6&style=flat" alt="subhnegi" /> </p>
 
